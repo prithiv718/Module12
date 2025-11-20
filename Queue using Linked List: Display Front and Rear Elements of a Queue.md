@@ -29,8 +29,25 @@ To write a Python program to:
 
 ---
 ## Program
-Add code here
+```
+queue = []
+queue.append('a')
+queue.append('b')
+queue.append('c')
+queue.append('d')
+print('Initial Queue: ' + str(queue))
+front=queue[0]
+rear=queue[3]
+EX.NO:12(D)
+Queue using Linked List: Display Front and Rear Elements of a
+Queue
+Saveetha Engineering College
+print("\nElement at the front of the queue is..... ", front)
+print("\nElement at the rear of the queue is .....", rear)
+```
 
 ## Output
+<img width="353" height="105" alt="image" src="https://github.com/user-attachments/assets/5971e6ce-5d41-4f9b-9cd7-e7d780386bdd" />
 
 ## Result
+Thus the program has been successfully executed.
